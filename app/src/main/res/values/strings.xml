@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="string_some_thing_wrong">some thing wrong</string>
+    <string name="string_internet_connection_not_available">internet connection not available</string>
+    <string name="string_getting_json_message">getting json message</string>
+</resources>
